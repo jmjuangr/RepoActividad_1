@@ -6,6 +6,7 @@ public class JoseManuel {
 		
 		System.out.println(decirHola());
 		System.out.println(Hobbies());
+		System.out.println(comidaFavorita());
 
 		}
 		
@@ -16,5 +17,8 @@ public class JoseManuel {
 		public static String Hobbies() {
 				return "Mis hobbies son : Senderismo, cine, videojuegos";
 		}
+		public static String comidaFavorita() {
+			return "Pizza, risotto, migas con huevo.";
+			}
 
 	}
