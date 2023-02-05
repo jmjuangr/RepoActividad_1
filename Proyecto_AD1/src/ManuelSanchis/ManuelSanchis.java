@@ -22,8 +22,7 @@ public class ManuelSanchis {
 	}
 	
 	public static String comidaFavorita() {
-		return "Pizza con coco, helado de lentejas, tortilla de patata sin cebolla.";
+		return "Pizza con excrementos, helado de lentejas, tortilla de patata con pepino.";
 	}
-
 
 }
