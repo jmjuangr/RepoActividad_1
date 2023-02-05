@@ -16,7 +16,11 @@ public class ManuelSanchis {
 	
 	public static String hobbies() {
 		return "Practicar kendo, la fotogria analógica y jugar a Warhammer 6º edición.";
+		
 	}
-
+	public static String comidas() {
+		return "pizza con piña, tortilla de patata sin cebolla, helado de menta";
+		
+	}
 
 }
