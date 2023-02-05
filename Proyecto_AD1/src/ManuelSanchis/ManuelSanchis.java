@@ -7,6 +7,8 @@ public class ManuelSanchis {
 		System.out.println(decirHola());
 		
 		System.out.println(hobbies());
+		
+		System.out.println(comidaFavorita());
 
 	}
 	
@@ -17,6 +19,11 @@ public class ManuelSanchis {
 	public static String hobbies() {
 		return "Practicar kendo, la fotogria analógica y jugar a Warhammer 6º edición.";
 	}
+	
+	public static String comidaFavorita() {
+		return "Arroz al horno, chucrut y sandwiches de Nocilla.";
+	}
+
 
 
 }
