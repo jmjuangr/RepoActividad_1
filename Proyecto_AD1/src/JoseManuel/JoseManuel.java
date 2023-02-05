@@ -18,7 +18,7 @@ public class JoseManuel {
 				return "Mis hobbies son : Senderismo, cine, videojuegos";
 		}
 		public static String comidaFavorita() {
-			return "Kebab de ternera, Frigopie, migas con jamon.";
+			return "Frigopie, Kebab de pollo, doritos.";
 			}
 
 	}
