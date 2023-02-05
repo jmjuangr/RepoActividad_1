@@ -22,9 +22,7 @@ public class ManuelSanchis {
 	}
 	
 	public static String comidaFavorita() {
-
 		return "Arroz al horno, macarrones, sekihan.";
-
 	}
 
 }
