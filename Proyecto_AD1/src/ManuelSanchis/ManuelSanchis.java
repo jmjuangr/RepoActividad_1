@@ -22,7 +22,7 @@ public class ManuelSanchis {
 	}
 	
 	public static String comidaFavorita() {
-		return "Pizza con piña, helado de menta, tortilla de patata sin cebolla.";
+		return "Arroz al horno, macarrones, sekihan.";
 	}
 
 
