@@ -19,8 +19,11 @@ public class JoseManuel {
 		}
 		public static String comidaFavorita() {
 			
-			return "Doritos, helado de chorizo, entrañas";
-			
-		}
+			return "Risotto,Pizza,Huevos rotos con jamon";
 
-	}
+			}
+
+}
+
+
+	
