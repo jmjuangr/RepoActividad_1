@@ -22,7 +22,7 @@ public class ManuelSanchis {
 	}
 	
 	public static String comidaFavorita() {
-		return "Arroz al horno, chucrut y sandwiches de Nocilla.";
+		return "Pizza con piña, helado de menta, tortilla de patata sin cebolla.";
 	}
 
 
