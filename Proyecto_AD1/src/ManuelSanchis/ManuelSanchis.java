@@ -7,6 +7,8 @@ public class ManuelSanchis {
 		System.out.println(decirHola());
 		
 		System.out.println(hobbies());
+		
+		System.out.println(comidaFavorita());
 
 	}
 	
@@ -22,5 +24,10 @@ public class ManuelSanchis {
 		return "pizza con piña, tortilla de patata sin cebolla, helado de menta";
 		
 	}
+	
+	public static String comidaFavorita() {
+		return "Arroz al horno, chucrut y sandwiches de Nocilla.";
+	}
+
 
 }
