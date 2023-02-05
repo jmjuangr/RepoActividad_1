@@ -25,5 +25,4 @@ public class ManuelSanchis {
 		return "Arroz al horno, macarrones, sekihan.";
 	}
 
-
 }
